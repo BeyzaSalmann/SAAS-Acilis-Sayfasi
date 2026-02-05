@@ -10,9 +10,9 @@ Bu proje, bir startup'ın büyüme süreçlerini yönettiği bir SaaS (Software 
 <img width="822" height="1546" alt="image" src="https://github.com/user-attachments/assets/c25d7e4e-8431-4495-958c-75f1787ac75a" />
 
 ## 🛠️ Kullanılan Teknolojiler
-HTML5: Sayfa yapısı ve semantik içerik için.
+HTML5: Sayfa yapısı ve semantik içerik için kullanıldı.
 
-CSS3: Özel mizanpaj, renk paleti ve responsive (duyarlı) tasarım için.
+CSS3: Özel mizanpaj, renk paleti ve responsive (duyarlı) tasarım için kullanıldı.
 
-Flexbox/Grid: Elemanların her ekranda kusursuz yerleşimi için.
+Flexbox/Grid: Elemanların her ekranda kusursuz yerleşimi için kullanıldı.
 

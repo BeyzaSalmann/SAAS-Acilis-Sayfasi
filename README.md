@@ -1,6 +1,8 @@
 # 🚀 Growth - Startup SaaS Landing Page
 Bu proje, bir startup'ın büyüme süreçlerini yönettiği bir SaaS (Software as a Service) platformu için tasarlanmış modern, dinamik ve tamamen duyarlı (responsive) bir açılış sayfasıdır.
+
 📸 Proje Görünümü
+
 ### Masaüstü Görünümü
 <img width="3022" height="1444" alt="image" src="https://github.com/user-attachments/assets/663e1013-3c07-4760-9da7-6006f4ae1706" />
 
